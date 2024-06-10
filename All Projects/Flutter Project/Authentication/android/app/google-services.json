@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244155355784",
+    "project_id": "loginandsignup-cbfa5",
+    "storage_bucket": "loginandsignup-cbfa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244155355784:android:c3dd703ebe7a01fa85053d",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDC79Cm0xJwJCq9lVIbN4axg3Wmwf5Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

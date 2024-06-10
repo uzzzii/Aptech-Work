@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640665556059",
+    "project_id": "auth-f8bd3",
+    "storage_bucket": "auth-f8bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640665556059:android:459ed6b361767d65fa5b7e",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMuc8Bzi_cwibPhajv1SU-OAeUokYI-mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
